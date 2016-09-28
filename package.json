@@ -1,4 +1,10 @@
-
+{
+  "engines": {
+  "node": "6.2.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
 {
   "name": "html5-videoEditor",
   "version": "0.0.1",
