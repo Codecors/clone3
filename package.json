@@ -13,3 +13,9 @@
     "node-imagemagick": "0.1.x"
   }
 }
+"engines": {
+  "node": "6.2.0"
+},
+"scripts": {
+  "start": "node server.js"
+}
